@@ -12,7 +12,7 @@ border: 1px gray double;
 
 .container-fluid{
 /* background-color: rgb(238, 250, 210); */
-background-color: lightgoldenrodyellow;
+background-color: lightblue;
 }
 
 .MyClothing{
@@ -41,7 +41,7 @@ min-height: 100%;
 font-family: "Helvetica Neue", Arial, sans-serif;
 /* Padding for top navbar fixed  */
 /* padding-top: 70px;  */
-/* background-image: url('bg.jpg'); */
+background: url('bg.jpg');
 }
   
 html {
@@ -102,3 +102,5 @@ box-sizing: border-box;
   @media (min-width: 1200px) {  
   
   }  
+
+ 
